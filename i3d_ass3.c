@@ -1,8 +1,4 @@
 /* Name:Li Zuyi
-* Sid: s3260309
-* Account no: s3260309
-* i3d Assignment 3, 2011
-* $Id$
 */
 
 #include <assert.h>
